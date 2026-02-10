@@ -11,7 +11,6 @@
     <p>🧠 <strong>Studying</strong> Computer Science at <strong>FIAP</strong></p>
     <p>🛠️ <strong>Graduated</strong> in Systems Development at <strong>SENAI</strong></p>
     <p>🤖 Interested in <strong>Artificial Intelligence, Machine Learning, Data Science and Automation</strong></p>
-    <p>💡 Known for my <strong>creativity and problem-solving skills</strong></p>
     <p>📚 Passionate about <strong>continuous learning and exploring new technologies</strong></p>
   </div>
 
