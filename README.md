@@ -14,7 +14,7 @@
     <p> ⤷  Passionate about <strong>continuous learning and exploring new technologies</strong></p>
   </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuanamagalhaes&hide_progress=true&theme=merko)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Iuanamagalhaes&layout=compact&theme=merko&hide_progress=true)
   
 </div>
 
@@ -72,7 +72,9 @@
 <hr>
 
 <div align="center" display="flex" gap="40px">  
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Iuanamagalhaes&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0AB855"/> 
+  
+![Luana GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Iuanamagalhaes&show_icons=true&theme=shadow_green)
+
 </div>
 
 ---
