@@ -64,7 +64,7 @@
 ![Canva](https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=canva&logoColor=000000)
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)
 
-<img src="plane.png" width="200"/>
+<img src="mouse.png" width="200"/>
 </div>
 
 <hr>
